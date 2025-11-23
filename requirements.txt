@@ -1,0 +1,9 @@
+# Add only top-level dependencies; pin versions as needed
+numpy
+pandas
+scikit-learn
+joblib
+matplotlib
+seaborn
+jupyter
+notebook
